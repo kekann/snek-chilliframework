@@ -1,0 +1,9 @@
+﻿  Game.cpp
+  Goal.cpp
+C:\Users\janek\Downloads\T14-Snek-Start\T14-Snek-Start\Engine\Goal.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file Goal.cpp)
+C:\Users\janek\Downloads\T14-Snek-Start\T14-Snek-Start\Engine\Goal.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file Game.cpp)
+C:\Users\janek\Downloads\T14-Snek-Start\T14-Snek-Start\Engine\Goal.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file Game.cpp)
+C:\Users\janek\Downloads\T14-Snek-Start\T14-Snek-Start\Engine\Goal.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file Game.cpp)
+C:\Users\janek\Downloads\T14-Snek-Start\T14-Snek-Start\Engine\Goal.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file Goal.cpp)
+C:\Users\janek\Downloads\T14-Snek-Start\T14-Snek-Start\Engine\Goal.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file Goal.cpp)
+  Engine.vcxproj -> C:\Users\janek\Downloads\T14-Snek-Start\T14-Snek-Start\x64\Debug\Engine.exe
